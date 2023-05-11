@@ -8,9 +8,10 @@ This is a simple Todo List application built with React. Allowing users to add t
 - Used simple css styling to make it visually appealing
 
 ## Prerequisites
-- Node.js (version 14 or higher)
-- npm (version 6 or higher)
+- ReactJS
+- npx create-react-app <my-app> 
 
+![Example](todoexample.png)
 
 -------------------------------------------------------------------------------------------------
 
